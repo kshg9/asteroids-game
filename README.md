@@ -22,7 +22,7 @@ You can run the game using one of the following methods:
 
 ## 🎮 Game Showcase
 
-[![Showcase](https://github.com/kshg9/asteroids-game/blob/main/demo/thumbnail.png?raw=true)](https://github.com/kshg9/asteroids-game/raw/main/demo/video.mp4)
+![Showcase](https://github.com/kshg9/asteroids-game/raw/main/demo/video.gif)
 
 ## 🏗️ Dependencies
 
