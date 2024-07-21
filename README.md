@@ -4,10 +4,10 @@ This project is an implementation of the classic game Asteroids using Java (JDK 
 
 ## ✨ Learning Objectives
 
-- [x] Maven integration
-- [] Creating successful independent .jar
-- [] Test-driven development (TDD)
-- [x] Project execution
+- [x] Maven integration 🪶
+- [] Creating successful independent .jar 📦️
+- [] Test-driven development (TDD) 🧪
+- [x] Project execution 📃
 
 ## 🕹️ How to Run
 
@@ -22,12 +22,12 @@ You can run the game using one of the following methods:
 
 ## 🎮 Game Showcase
 
-[![Showcase](https://raw.githubusercontent.com/kshg9/asteroids-game/main/demo/thumbnail.jpg)](https://raw.githubusercontent.com/kshg9/asteroids-game/main/demo/video.mp4)
+[![Showcase](https://github.com/kshg9/asteroids-game/blob/main/demo/thumbnail.png?raw=true)](https://github.com/kshg9/asteroids-game/raw/main/demo/video.mp4)
 
-## Dependencies
+## 🏗️ Dependencies
 
 - Java21
 - Maven
 - Javafx
 
-### Enjoy!
+### 🥂 Enjoy!
