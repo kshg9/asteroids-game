@@ -8,6 +8,8 @@ This project is an implementation of the classic game Asteroids using Java (JDK 
 - [ ] Creating successful independent .jar 📦️
 - [ ] Test-driven development (TDD) 🧪
 - [x] Project execution 📃
+- [x] Feature Integration 🧩
+- [ ] Optimum Resource Handling ⚙️
 
 ## 🕹️ How to Run
 
