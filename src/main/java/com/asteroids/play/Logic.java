@@ -195,15 +195,12 @@ public class Logic {
 
     private void handleInput(double deltaTime) {
         if (inputHandler.isKeyPressed(KeyCode.LEFT)) {
-            System.out.println("Left key pressed");
             ship.turnLeft(deltaTime);
         }
         if (inputHandler.isKeyPressed(KeyCode.RIGHT)) {
-            System.out.println("Right key pressed");
             ship.turnRight(deltaTime);
         }
         if (inputHandler.isKeyPressed(KeyCode.UP)) {
-            System.out.println("Up key pressed");
             ship.accelerate(deltaTime);
         }
         if (inputHandler.isKeyPressed(KeyCode.SPACE)) {

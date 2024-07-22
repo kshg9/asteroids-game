@@ -5,8 +5,8 @@ This project is an implementation of the classic game Asteroids using Java (JDK 
 ## ✨ Learning Objectives
 
 - [x] Maven integration 🪶
-- [] Creating successful independent .jar 📦️
-- [] Test-driven development (TDD) 🧪
+- [ ] Creating successful independent .jar 📦️
+- [ ] Test-driven development (TDD) 🧪
 - [x] Project execution 📃
 
 ## 🕹️ How to Run
@@ -30,4 +30,4 @@ You can run the game using one of the following methods:
 - Maven
 - Javafx
 
-### 🥂 Enjoy!
+## 🥂 __Enjoy!__
