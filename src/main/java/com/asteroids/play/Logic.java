@@ -48,12 +48,12 @@ public class Logic {
         if (!statisticsShown) {
             showStatistics();
             view.getButton2().setDisable(true);
-            view.getPoints().setFill(Config.STATS_BACKGROUND);
+            view.getPoints().setVisible(false);
             view.getGamePane().setBackground(Background.fill(Config.STATS_BACKGROUND));
         } else {
             hideStatistics();
             view.getButton2().setDisable(false);
-            view.getPoints().setFill(Config.POINTS_COLOR);
+            view.getPoints().setVisible(true);
             view.getGamePane().setBackground(Background.fill(Config.GAME_BACKGROUND));
         }
     }
