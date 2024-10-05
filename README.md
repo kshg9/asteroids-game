@@ -1,6 +1,7 @@
 # 🚀 Asteroids Game in Java
 
-This project is an implementation of the classic game Asteroids using Java (JDK 21).
+> [!NOTE]
+> This project is an implementation of the classic game Asteroids using Java (JDK 21).
 
 ## ✨ Learning Objectives
 
@@ -8,15 +9,23 @@ This project is an implementation of the classic game Asteroids using Java (JDK 
 - [x] Creating successful independent .jar 📦️
 - [x] Project execution 📃
 - [x] Feature Integration 🧩
-- [ ] Try github CI 🐙
+- [x] Try github CI 🐙
 
-## 🕹️ How to Run
+## 🕹️ How to `Run` game:
 
-You can run the game using one of the following methods:
+> [!TIP]
+> For Windows users, simply double-click the downloaded `.jar` file to start the game.
+
+Download the `.jar` file from `Releases`
+```sh
+java -jar ./path/to/Asteroids-XX.jar
+```
+
+## 💻 Running project using one of the following methods:
 
 1. Using Maven:
    ```
-   mvn clean javafx:run
+   ./mvnw clean javafx:run
    ```
 
 2. Using the configuration provided in the repository, on IntelliJ select and run `run-with-deps`.

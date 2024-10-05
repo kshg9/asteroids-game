@@ -42,3 +42,5 @@ jobs:
         asset_path: target/shade/Asteroids-shaded.jar
         asset_name: Asteroids-shaded.jar
         asset_content_type: application/java-archive
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
